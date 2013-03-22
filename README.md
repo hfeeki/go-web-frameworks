@@ -22,7 +22,7 @@ Web frameworks for Go
     https://github.com/aaronlifton/Gooo.git
 
 # [mango](https://github.com/paulbellamy/mango.git) #
-    https://github.com/paulbellamy/mango.git
+    Mango is a modular web-application framework for Go, inspired by ruby's Rack and python's WSGI(PEP333).
 
 # [golangers](https://github.com/golangers/framework.git) #
     https://github.com/golangers/framework.git
@@ -39,3 +39,24 @@ Web frameworks for Go
 
 # [go-start](https://github.com/ungerik/go-start.git) #
     https://github.com/ungerik/go-start.git
+
+# [rest](https://github.com/nathankerr/rest.git) #
+    A RESTful HTTP client and server.
+    docs: http://go.pkgdoc.org/github.com/nathankerr/rest
+
+# [go-json-rest](https://github.com/ant0ine/go-json-rest.git) #
+    A quick and easy way to setup a RESTful JSON API
+
+
+Template system for Go
+===============
+# [kasia.go](https://github.com/ziutek/kasia.go.git) #
+    Kasia.go is a Go implementation of the Kasia templating system.
+
+Routing system for Go 
+==============
+# [routes](https://github.com/drone/routes.git) #
+    a simple http routing API for the Go programming language
+
+# [go-urlrouter](https://github.com/ant0ine/go-urlrouter.git) #
+    Efficient URL routing using a Trie data structure.
