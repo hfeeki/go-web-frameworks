@@ -27,11 +27,7 @@ Web frameworks for Go
 # [goku](https://github.com/QLeelulu/goku.git) 
     https://github.com/QLeelulu/goku.git
 
-<<<<<<< HEAD
-# [soggy](https://github.com/dbrain/soggy.git) 
-=======
 # [soggy](https://github.com/dbrain/soggy.git)   
->>>>>>> 0e4f6b0f33afcd3bdaaf952d4624481f2d78def2
     https://github.com/dbrain/soggy.git
     based on web.go
 
@@ -48,40 +44,39 @@ Web frameworks for Go
 # [go-json-rest](https://github.com/ant0ine/go-json-rest.git) 
     A quick and easy way to setup a RESTful JSON API
 
-<<<<<<< HEAD
+
 # [goweb](https://github.com/stretchrcom/goweb.git)
     A lightweight RESTful web framework for Go
 
 # [gorest](http://code.google.com/p/gorest/)
     A RESTful style web-services framework for the Go language. 
 
+
 Template system for Go
 ====================
-=======
 # [xgo](https://github.com/xgdapg/xgo.git)
     A simple web framework to build webapp easily in Go
+    
+# [amber](https://github.com/eknkc/amber.git)
+    Amber is an elegant templating engine for Go Programming Language, inspired from HAML and Jade
+    
 
 
 Template system for Go
-===============
->>>>>>> 0e4f6b0f33afcd3bdaaf952d4624481f2d78def2
+======================
 # [kasia.go](https://github.com/ziutek/kasia.go.git) 
     Kasia.go is a Go implementation of the Kasia templating system.
     
 
 Routing system for Go 
-<<<<<<< HEAD
-===================
-=======
 ======================
->>>>>>> 0e4f6b0f33afcd3bdaaf952d4624481f2d78def2
 # [routes](https://github.com/drone/routes.git) 
     a simple http routing API for the Go programming language
 
 # [go-urlrouter](https://github.com/ant0ine/go-urlrouter.git) 
     Efficient URL routing using a Trie data structure.
     
-<<<<<<< HEAD
+
 BDD for golang
 =============
 # [gogherkit](https://github.com/harlanji/gogherkit.git)
@@ -96,15 +91,15 @@ BDD for golang
     
     
 Some other library for Go
-=======================
+========================
 # [peg](https://github.com/pointlander/peg.git)
     Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator for golang.
-=======
+
     
 Database Driver for go
 =======================
 # [go-sqlite3](https://github.com/mattn/go-sqlite3.git)
     sqlite3 driver for golang
->>>>>>> 0e4f6b0f33afcd3bdaaf952d4624481f2d78def2
+
     
     
