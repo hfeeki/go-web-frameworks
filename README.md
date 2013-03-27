@@ -65,6 +65,10 @@ Template system for Go
 # [kasia.go](https://github.com/ziutek/kasia.go.git) 
     Kasia.go is a Go implementation of the Kasia templating system.
     
+    
+# [mustache](https://github.com/wendal/mustache.git)
+    The mustache template language in Go
+    
 
 Routing system for Go 
 ======================
