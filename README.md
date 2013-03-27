@@ -52,14 +52,34 @@ Web frameworks for Go
     A RESTful style web-services framework for the Go language. 
 
 Template system for Go
-===============
+====================
 # [kasia.go](https://github.com/ziutek/kasia.go.git) 
     Kasia.go is a Go implementation of the Kasia templating system.
 
 Routing system for Go 
-==============
+===================
 # [routes](https://github.com/drone/routes.git) 
     a simple http routing API for the Go programming language
 
 # [go-urlrouter](https://github.com/ant0ine/go-urlrouter.git) 
     Efficient URL routing using a Trie data structure.
+    
+BDD for golang
+=============
+# [gogherkit](https://github.com/harlanji/gogherkit.git)
+    Gherkin based BDD for Go Lang. 
+    An attempt to build a beautiful Cucumber/JBehave like tool for GoLang.
+    Sofar it is using the PEG parser/generator here: https://github.com/pointlander/peg
+    To get it running yourself, you must install that package to that 'peg' is in your $PATH.
+    If your Go environment is setup correctly, it should be a matter of running "go get github.com/pointlander/peg".
+    
+# [go-gherkin](https://github.com/tychofreeman/go-gherkin.git)
+    Implement a Gherkin engine in Golang 
+    
+    
+Some other library for Go
+=======================
+# [peg](https://github.com/pointlander/peg.git)
+    Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator for golang.
+    
+    
