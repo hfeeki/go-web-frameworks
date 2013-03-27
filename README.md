@@ -52,18 +52,16 @@ Web frameworks for Go
     A RESTful style web-services framework for the Go language. 
 
 
-Template system for Go
-====================
 # [xgo](https://github.com/xgdapg/xgo.git)
     A simple web framework to build webapp easily in Go
     
+    
+Template system for Go
+====================
 # [amber](https://github.com/eknkc/amber.git)
     Amber is an elegant templating engine for Go Programming Language, inspired from HAML and Jade
     
 
-
-Template system for Go
-======================
 # [kasia.go](https://github.com/ziutek/kasia.go.git) 
     Kasia.go is a Go implementation of the Kasia templating system.
     
