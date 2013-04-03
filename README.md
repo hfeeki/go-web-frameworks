@@ -69,6 +69,12 @@ Template system for Go
 # [mustache](https://github.com/wendal/mustache.git)
     The mustache template language in Go
     
+# [mtemplate](https://bitbucket.org/adamcrossland/mtemplate)
+    An alternate version of Go's template package. It allows for templates to be nested inside parent templates. This provides for an improved ability to reduce the duplication of markup shared between multiple pages. See the Wiki for more information.
+
+# [pongo](https://github.com/flosch/pongo.git)
+   A template engine which implements a Django-template-like syntax.
+
 
 Routing system for Go 
 ======================
