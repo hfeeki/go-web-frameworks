@@ -75,6 +75,9 @@ Template system for Go
 # [pongo](https://github.com/flosch/pongo.git)
    A template engine which implements a Django-template-like syntax.
 
+# [Gold](https://github.com/yosssi/gold)
+   Template engine for Golang.
+
 
 Routing system for Go 
 ======================
